@@ -11,7 +11,7 @@
 
 <b>Гайд по установке &gt;</b> https://telegra.ph/Ustanovka-Giveaway-bota-05-27
 
-<b>Скачать &gt;</b> https://github.com/scissoreth/giveaway_bot/archive/refs/heads/master.zip
+<b>Скачать &gt;</b> https://t.me/crypto_satana/6
 
 <b>Основные эмодзи (чтобы не искали в инете) &gt;</b> https://t.me/crypto_satana/3
 
